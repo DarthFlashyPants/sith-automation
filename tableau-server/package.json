@@ -1,0 +1,14 @@
+{
+  "name": "sith-automation",
+  "description": "An AWS Lambda Function and Additional node module to control Tableau Server remotely",
+  "version": "0.0.1",
+  "dependencies": {
+      "request": "2.x",
+      "aws-sdk": "2.x"
+
+},
+"repository": {
+  "type": "git",
+  "url": "git+https//github.com/DarthFlashyPants/sith-automation.git"
+   }
+}
